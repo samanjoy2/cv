@@ -8,7 +8,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
+  # - 'Equal contribution'
 
 date: '2023-11-01T00:00:00Z'
 doi: '10.18653/v1/2023.alta-1.21'
@@ -39,11 +39,11 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: https://aclanthology.org/2023.alta-1.21.pdf
+links:
+- name: Custom Link
+  url: https://aclanthology.org/2023.alta-1.21.pdf
 
-url: 'aclanthology.org/2023.alta-1.21.pdf'
+# url: 'aclanthology.org/2023.alta-1.21.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -68,7 +68,7 @@ slides: ""
 ---
 
 {{% callout note %}}
-Click the _Cite_ button above to enable visitors to import publication metadata into their reference management software.
+Click the _Cite_ button above to download the _.bib_ file.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
