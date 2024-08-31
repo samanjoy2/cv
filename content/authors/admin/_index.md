@@ -1,6 +1,6 @@
 ---
 # Display name
-title:
+title: Saman Sarker Joy
 
 # Name pronunciation (optional)
 name_pronunciation:
