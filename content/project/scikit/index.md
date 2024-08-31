@@ -1,13 +1,14 @@
 ---
-title: scikit-learn
+title: Grapheme Construction
 date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+external_link: https://grapheme-construction-vgg19.streamlit.app/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - VGG19
+  - Machine Learning
+  - Python
+  - Computer Vision
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Using the VGG19 model, this project predicts graphemes from given images and reconstructs them into machine-readable text. The implementation involves processing and analyzing handwritten graphemes to accurately convert them into digital format.
 
 <!--more-->
