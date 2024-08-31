@@ -83,11 +83,10 @@ work:
   - position: Research Assistant
     company_name: BRAC University
     company_url: ''
-    company_logo: ''
+    company_logo: 'assets/media/BRAC_University_monogram.svg.png'
     date_start: 2024-08-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
       - Conducting literature reviews on inverse design and deep learning advancements.
       - Designing, implementing, and optimizing algorithms for research tasks.
       - Analyzing research results and contributing to publications and presentations.
@@ -98,7 +97,6 @@ work:
     date_start: 2022-04-01
     date_end: 2023-04-01
     summary: |
-      Responsibilities include:
       - Taught the course CSE111: Programming Language-II.
       - Instructed students in Data Structures and Object-oriented Programming (OOP).
       - Conducted 15 hours of live consultations and lab classes per week.
