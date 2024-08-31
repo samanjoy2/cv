@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a passionate researcher specializing in Natural Language Processing (NLP) and Machine Learning, with a particular focus on low-resource languages and their applications. My work involves exploring advanced models like BERT, GPT, and other Transformers to solve complex problems such as Named Entity Recognition, Fake News Detection, and Clickbait Detection.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am dedicated to pushing the boundaries of NLP, especially in underrepresented languages, and am always open to collaboration opportunities.
+
+        Feel free to connect with me to discuss potential research collaborations or projects!
     design:
       columns: '1'
   - block: collection
