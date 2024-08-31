@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: https://aclanthology.org/2023.alta-1.1.pdf
 
-url_pdf: 'https://aclanthology.org/2023.alta-1.1.pdf'
+url_pdf: 'aclanthology.org/2023.alta-1.1.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
