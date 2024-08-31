@@ -42,9 +42,9 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: Custom Link
-  url: https://aclanthology.org/2023.alta-1.1.pdf
+# links:
+# - name: Custom Link
+#   url: https://aclanthology.org/2023.alta-1.1.pdf
 
 url_pdf: 'https://aclanthology.org/2023.alta-1.1.pdf'
 url_code: ''
