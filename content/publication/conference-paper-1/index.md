@@ -42,9 +42,9 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Custom Link
+  url: https://aclanthology.org/2023.alta-1.1.pdf
 
 url_pdf: 'https://aclanthology.org/2023.alta-1.1.pdf'
 url_code: ''
@@ -71,7 +71,7 @@ slides: ""
 ---
 
 {{% callout note %}}
-Click the _Cite_ button above to enable visitors to import publication metadata into their reference management software.
+Click the _Cite_ button above to download the _.bib_ file.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
