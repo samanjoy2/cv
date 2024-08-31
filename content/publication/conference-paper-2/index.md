@@ -11,7 +11,7 @@ author_notes:
   # - 'Equal contribution'
 
 date: '2023-11-01T00:00:00Z'
-doi: '10.18653/v1/2023.alta-1.21'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-11-01T00:00:00Z'
