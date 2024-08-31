@@ -34,19 +34,19 @@ tags:
 - Gazetteer
 - CRF Model
 
-featured: true
+featured: false
 
 links:
 - name: View Paper
   url: https://doi.org/10.48550/arXiv.2401.17206
 url_pdf: https://arxiv.org/pdf/2401.17206
 url_code: 'https://github.com/samanjoy2/gazz-ban-ner'
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

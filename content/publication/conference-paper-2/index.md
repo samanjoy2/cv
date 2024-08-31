@@ -40,7 +40,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Custom Link
+- name: View Paper
   url: https://aclanthology.org/2023.alta-1.21.pdf
 
 # url: 'aclanthology.org/2023.alta-1.21.pdf'
