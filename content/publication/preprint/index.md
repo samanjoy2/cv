@@ -5,8 +5,13 @@ authors:
 - Niloy Farhan
 - Tafseer Binte Mannan
 - Farig Sadeque
+
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+
 date: "2024-01-30T17:47:07Z"
-doi: "10.48550/arXiv.2401.17206"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-30T00:00:00Z"
@@ -40,7 +45,7 @@ links:
 - name: View Paper
   url: https://doi.org/10.48550/arXiv.2401.17206
 url_pdf: https://arxiv.org/pdf/2401.17206
-url_code: 'https://github.com/samanjoy2/gazz-ban-ner'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

@@ -6,8 +6,8 @@ title: Saman Sarker Joy
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: Saman Sarker
-last_name: Joy
+first_name: Saman Sarker Joy
+last_name: 
 
 # Status emoji
 status:
